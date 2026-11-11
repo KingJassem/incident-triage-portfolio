@@ -1,0 +1,8 @@
+[
+  {"event_id":"INC-1001","observed_at":"2026-11-11T09:00:00-06:00","source":"identity_monitor","category":"authentication","signal":"failed_logins","account_alias":"user_alpha"},
+  {"event_id":"INC-1002","observed_at":"2026-11-11T09:04:00-06:00","source":"helpdesk","category":"phishing","signal":"suspicious_link","account_alias":"user_beta"},
+  {"event_id":"INC-1003","observed_at":"2026-11-11T09:05:00-06:00","source":"endpoint_monitor","category":"endpoint","signal":"malware_alert","account_alias":"endpoint_07"},
+  {"event_id":"INC-1004","observed_at":"2026-11-11T09:07:00-06:00","source":"helpdesk","category":"connectivity","signal":"routine","account_alias":"user_gamma"},
+  {"event_id":"INC-1001","observed_at":"2026-11-11T09:00:00-06:00","source":"identity_monitor","category":"authentication","signal":"failed_logins","account_alias":"user_alpha"},
+  {"event_id":"BAD-1005","observed_at":"not-a-date","source":"helpdesk","category":"authentication","signal":"failed_logins","account_alias":"user_delta"}
+]
